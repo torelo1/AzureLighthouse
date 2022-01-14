@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "mspOfferName": {
-            "value": "Relecloud Managed Services"
+            "value": "Cloud-Force1 Managed Services"
         },
         "mspOfferDescription": {
-            "value": "Relecloud Managed Services"
+            "value": "Cloud-Force1 Managed Services"
         },
         "managedByTenantId": {
-            "value": "<insert managing tenant id>"
+            "value": "c0e59c4e-14f2-4fe2-8884-27506a34dbae"
         },
         "authorizations": {
             "value": [
