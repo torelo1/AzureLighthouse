@@ -1,4 +1,7 @@
 # AzureLighthouse
 
 
-https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2FAzure-Lighthouse-samples%2Fmaster%2Ftemplates%2Fdelegated-resource-management%2Fsubscription%2Fsubscription.json
+https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftorelo1%2FAzureLighthouse%2Fmain%2Fsubscription.json
+
+
+https://raw.githubusercontent.com/torelo1/AzureLighthouse/main/subscription.json?token=GHSAT0AAAAAABQSXBBRXX5OYRPCOATZCGISYPBTDNA
